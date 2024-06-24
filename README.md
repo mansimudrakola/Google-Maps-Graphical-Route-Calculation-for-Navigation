@@ -1,4 +1,4 @@
-# Graphical-Route-Calculation-for-Navigation
+# Google-Maps-Graphical-Route-Calculation-for-Navigation
 
  A C++ code that will help find the shortest path between any two buildings in the Northeastern University Boston campus. For this I utilized the Dijkstra’s Algorithm to implement the
  program. 
